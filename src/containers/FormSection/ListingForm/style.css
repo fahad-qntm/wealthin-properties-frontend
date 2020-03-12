@@ -1,0 +1,14 @@
+.test .fileContainer{
+    background: #120b21;
+    border: 1px solid #391653;
+    border-radius: 20px;
+    padding: 20px 0;
+    margin: 20px 10px;
+}
+
+.test .fileContainer .uploadPictureContainer{
+    background: transparent;
+    border: 0.4px solid #391653;
+    border-radius: 20px;
+    box-shadow: -5px -5px 8px 2px rgba(0, 0, 0, 0.3);
+}
